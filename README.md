@@ -1,5 +1,5 @@
 # AI4Earth: Molecular Property Prediction with QM9 & PyTorch Geometric
-Notebooks and supporting files for AI4Earth Summer Program
+Notebooks and supporting files for the University of Minnesota's [AI4Earth Summer Program](https://cse.umn.edu/cs/ai-earth-program)
 
 This repository contains Jupyter Notebooks demonstrating Graph Neural Networks (GNNs) and deep learning workflows for molecular property prediction using the **QM9 dataset** via the **PyTorch Geometric (PyG)** library.
 The QM9 dataset is from the paper: [MoleculeNet: A Benchmark for Molecular Machine Learning](https://arxiv.org/abs/1703.00564).
