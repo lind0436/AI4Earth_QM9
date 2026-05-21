@@ -21,4 +21,4 @@ All properties were computed using Density Functional Theory (DFT) at the `B3LYP
 | **Node Features** | 11 |
 | **Regression Targets (Tasks)** | 19 |
 
-
+For best results, work through the notebooks in order, beginning with [Part_0_using_QM9.ipynb](Part_0_using_QM9.ipynb)
